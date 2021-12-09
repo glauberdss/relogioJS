@@ -1,0 +1,11 @@
+body {
+  width: 100%;
+}
+
+input[type=text] {
+  width: 100%;
+  color: cornflowerblue;
+  border: 0px;
+  font-size: 150px;
+  text-align: center;
+}
